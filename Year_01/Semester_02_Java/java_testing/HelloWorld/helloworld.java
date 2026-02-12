@@ -1,5 +1,7 @@
-package [01] Year 1.Semester_02_Java.java_testing.HelloWorld;
 
-public class helloworld {
-    
+public class helloworld
+{
+    public static void main(String[] args) {
+        System.out.println("Hello World!!");
+    }
 }
