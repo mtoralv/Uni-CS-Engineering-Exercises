@@ -3,7 +3,7 @@ public class variablesconst
 {
     public static void main(String[] args) {
 
-        // IMPORTANT String with UpperCase
+        // IMPORTANT String is with UpperCase
 
         String TestingStr = "This is a test";
         System.out.println(TestingStr);
