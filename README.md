@@ -2,10 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtoralv/)
 
-# 🎓 Academic Software Engineering Portfolio
+# 🎓 Academic University Portfolio
 ### University of Málaga (UMA) | Computer Science & Engineering | Marcos Torres Álvarez
-
-# 🎓 Academic Software Engineering Portfolio
 
 This repository is a live documentation of my academic journey and technical evolution at the University of Málaga. It tracks my progress from foundational procedural programming to modern, object-oriented system design.
 
