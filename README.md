@@ -1,6 +1,6 @@
 # Uni-CS-Engineering-Exercises
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtoralv2104/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtoralv/)
 
 # 🎓 Academic Software Engineering Portfolio
 ### University of Málaga (UMA) | Computer Science & Engineering | Marcos Torres Álvarez
